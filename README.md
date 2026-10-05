@@ -1,3 +1,15 @@
+## Fork provenance
+
+This repository is a GitHub fork of [anonymusk7/council-of-high-intelligence](https://github.com/anonymusk7/council-of-high-intelligence), whose GitHub source lineage points to [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence). Original inherited authorship remains with the upstream authors and contributors.
+
+- **Local purpose:** Maintain an expanded council implementation with additional agents, provider routing, Codex/Gemini support, simulations, configuration examples, installation logic, release automation, and project documentation.
+- **Local changes:** The verified direct-parent comparison on 05/10/2026 was **29 commits ahead / 0 behind**. GitHub shows substantial local changes across `SKILL.md`, agent definitions, installers, provider-routing/configuration, scripts, demos, CI/release workflows, and documentation.
+- **Sync model:** Intentionally diverged fork. Upstream synchronization requires explicit review and is not assumed automatically.
+- **License and attribution:** The repository contains an MIT `LICENSE` carrying the upstream copyright notice. That file remains the authoritative license text for inherited code.
+- **Links and project claims:** Release, star, clone, and installation links that explicitly point to `0xNyk/council-of-high-intelligence` refer to the upstream project, not to this fork. Local additions must be evaluated separately from upstream project achievements.
+
+---
+
 # Council of High Intelligence
 
 <p align="center">
